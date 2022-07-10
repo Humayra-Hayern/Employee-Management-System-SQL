@@ -33,4 +33,6 @@ THEN I am prompted to select an employee to update and their new role and this i
 ```
 
 ## Instructions
+Make sure all dependencies are installed by typing ``` npm i ``` in the console.
 
+Then to start the app, type ``` node index.js ``` in the console and follow the instructions.
